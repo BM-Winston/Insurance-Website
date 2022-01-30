@@ -2,6 +2,7 @@
 *{
     font-family: Montserrat;
     background-color:#252B42;
+    background-image: url(./Images/#hero-cover.3.png);
     
 }
 .header{
@@ -58,5 +59,9 @@
     vertical-align: middle;
     float: right;
     display: block;
+}
+.content{
+    color: white;
+    vertical-align: middle;
 }
 
