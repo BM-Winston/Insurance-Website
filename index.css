@@ -55,4 +55,8 @@
 }
 .h3{
     color: white;
+    vertical-align: middle;
+    float: right;
+    display: block;
 }
+
