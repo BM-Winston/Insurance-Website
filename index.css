@@ -31,11 +31,14 @@
 }
 .navigation a li{
     display: table-cell;
-    
+    float: left;
+    padding-right: 0px;
+    vertical-align: middle;
+
 }
 
 .navigation{
-    float:right;
+    float:center;
     height:100%;
     color: white;
 
