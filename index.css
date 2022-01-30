@@ -29,6 +29,10 @@
     display: table-cell;
     vertical-align: middle;
 }
+.navigation a li{
+    display: table-cell;
+    
+}
 
 .navigation{
     float:right;
