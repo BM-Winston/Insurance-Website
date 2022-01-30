@@ -1,9 +1,13 @@
-.Home-list ul li{
-    display:inline-block;
-    
-     }
+
 *{
     font-family: Montserrat;
     background-color:#252B42 ;
     color: #23A6F0;
+}
+*Header{
+    width:120%;
+    height:100px;
+    display: block;
+    background-color: white ;
+    
 }
